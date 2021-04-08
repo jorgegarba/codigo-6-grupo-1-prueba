@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+:root{
+  --rosado: #ed91f0;
+  --magenta: #4f0952;
+}
